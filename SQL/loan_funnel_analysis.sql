@@ -1,0 +1,2 @@
+-- Loan Funnel Analysis
+-- SQL queries for the Loan Funnel Analysis project
